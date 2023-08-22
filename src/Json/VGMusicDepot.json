@@ -1,0 +1,427 @@
+{
+  "users": [
+    {
+      "email": "holdendreed@hotmail.com",
+      "displayName": "Holden Reed",
+      "uid": "xvEYhrXRCLY9eX9jblCzDD5ygCw2",
+      "type": "google",
+      "isStaff": false,
+      "id": 1
+    },
+    {
+      "email": "ibjaylacook@yahoo.com",
+      "displayName": "Jayla Cook",
+      "uid": "zj6JL2jryuZTmEaYghI6ERm6A652",
+      "type": "email",
+      "isStaff": true,
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "albumTitle": "Old School Runescape",
+      "albumImg": "https://www.runescape.com/img/rsp777/social-share-fb.jpg?1",
+      "albumInfo": "Music in Old School RuneScape is mostly in-game background music designed to enhance a player's gaming experience and fit with the environment the avatar is in. Music in Old School RuneScape draws inspiration from classical and world music. These are unlocked during gameplay by going to a particular place or during a quest. Composed by: James Hannigan",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLA3CCrYGqFawo3BuPXD1ZHgINFGV76Vu3",
+      "gameTypeId": 4
+    },
+    {
+      "albumTitle": "Doom Eternal",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Cover_Art_of_Doom_Eternal.png/220px-Cover_Art_of_Doom_Eternal.png",
+      "albumInfo": "The soundtrack of Doom Eternal was composed by Mick Gordon. It was designed to be a continuation of the soundtrack to the previous game, but also a sort of ancient, alien heavy metal album. Some songs feature lyrics in fictional languages (such as 'kar en tuk', Argenta tongue for 'rip and tear'), and a choir was gathered for the occasion, with an open call to heavy metal vocalists. The choir was recorded in March 2019.[1] Additional lyrics were performed by oktavist Eric Hollaway.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL9qahmMHuxzSpTHbPNJfLlLN1HpzKNH2A",
+      "gameTypeId": 3,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "albumTitle": "Final Fantasy 7",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/c/c2/Final_Fantasy_VII_Box_Art.jpg",
+      "albumInfo": "Final Fantasy VII is a role-playing video game developed by Square (now Square Enix) and published by Sony Computer Entertainment as the seventh installment in the Final Fantasy series. Released in 1997, the game sparked the release of a collection of media centered on the game entitled the Compilation of Final Fantasy VII. The music of the Final Fantasy VII series includes not only the soundtrack to the original game and its associated albums, but also the soundtracks and music albums released for the other titles in the collection. Nobuo Uematsu composed the music of Final Fantasy VII in less than one year.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLglUu7rOaMDvQbKouUvnZsPBfgcnTfixn",
+      "gameTypeId": 4
+    },
+    {
+      "id": 4,
+      "albumTitle": "Halo 3",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Halo_3_final_boxshot.JPG/220px-Halo_3_final_boxshot.JPG",
+      "albumInfo": "Halo 3 Original Soundtrack is the official soundtrack to Bungie's first-person shooter video game Halo 3. Most of the original music was composed by Martin O'Donnell and Michael Salvatori, but also includes a bonus track, 'LvUrFR3NZ', which was the winning entry in a contest held before the soundtrack's release. The 2-CD set was released on November 20, 2007.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLVFu5mCs8PVi9gzKmuNwqDmRTMNYmHgDR",
+      "gameTypeId": 3
+    },
+    {
+      "id": 5,
+      "albumTitle": "Halo 2",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Halo2-cover.png/220px-Halo2-cover.png",
+      "albumInfo": "The Halo 2 Original Soundtrack is the soundtrack for Bungie's 2004 video game Halo 2. The soundtrack was released as two separate volumes, released almost two years apart. Volume 1, released at the same time as Halo 2 on November 9, 2004, contains arranged instrumental pieces written by Martin O'Donnell and his partner Michael Salvatori, as well as 'inspired-by' tracks from bands Incubus, Hoobastank and Breaking Benjamin. Volume 2 was released on April 25, 2006 and contains all the game music arranged in a suite form.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLv5gNyRtYVaMsM5MSGjUBmMzyYQz4IxJN",
+      "gameTypeId": 3
+    },
+    {
+      "id": 6,
+      "albumTitle": "Halo ODST",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Halo_3_ODST_Box_Art.png/220px-Halo_3_ODST_Box_Art.png",
+      "albumInfo": "The Halo 3: ODST Original Soundtrack consists of music tracks composed by Martin O'Donnell, Michael Salvatori, Stan LePard and C. Paul Johnson is a two-disc set similar to the Halo 2: Original Soundtrack and Halo 3: Original Soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLVFu5mCs8PVgJlZEDiwDRuBUMHbgX1oss",
+      "gameTypeId": 3
+    },
+    {
+      "albumTitle": "Donkey Kong Country",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1a/Donkey_Kong_Country_SNES_cover.png/220px-Donkey_Kong_Country_SNES_cover.png",
+      "albumInfo": "DK Jamz is the official soundtrack for Donkey Kong Country released on CD[1], in 1995. It contains all of Donkey Kong Country's songs, including the individual Kong's themes. It has been highly praised for its diverse and good quality music. DK Jamz was mainly composed by David Wise, with assistance of Robin Beanland and Eveline Fischer.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL3qKGTUJcGDoHJGloGV4OdsqY-NNlxfvi",
+      "gameTypeId": 2,
+      "id": 7
+    },
+    {
+      "albumTitle": "Hades",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Hades_cover_art.jpg/220px-Hades_cover_art.jpg",
+      "albumInfo": "The Hades Original Soundtrack by award-winning composer Darren Korb features two and a half hours of blood-pumping music created exclusively for our god-like rogue-like dungeon crawler.\n\nThe album features additional vocals by longtime collaborator Ashley Barrett, and has been specially remastered for stand-alone listening. Even if you know Darren and Ashley's music from Bastion, Transistor, and Pyre by heart, you've never heard them like this before! The Hades Original Soundtrack features key pieces recorded with orchestral accompaniment at the world-famous Studio Two at Abbey Road Studios in London, and a host of extraordinary musical talent in contributing roles.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL53mjgVKFq7yu0LdAvpp42ZGLzRCkFKuz",
+      "gameTypeId": 1,
+      "id": 8
+    },
+    {
+      "albumTitle": "Farcry 5",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Far_Cry_5_boxshot.jpg/220px-Far_Cry_5_boxshot.jpg",
+      "albumInfo": "There are a number of specific songs crafted especially for Far Cry 5 by the talented and award-winning composer Dan Romer.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLu6_FOgZp3egGmOCzUquEFDh4_F1Xdm7a",
+      "gameTypeId": 3,
+      "id": 9
+    },
+    {
+      "albumTitle": "Super Mario 64",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Super_Mario_64_box_cover.jpg/220px-Super_Mario_64_box_cover.jpg",
+      "albumInfo": "The Super Mario 64 Original Soundtrack is a video game album that was produced and copyrighted by Nintendo and published by Pony Canyon. The album was released in Japan and North America in 1996 and Europe in 1997. The soundtrack has 34 tracks from the game with the same name, as well as a voiceover intro from the Title Screen, which is performed by the star of the game, Charles Martinet; the final track is a bonus piano version of \"Piranha Plant's Lullaby\" performed by Koji Kondo. The Japanese release is also the first of ten soundtracks in the Nintendo 64 Sound Series.\n\nThe above text is from the Super Mario Wiki and is available under a Creative Commons license. Attribution must be provided through a list of authors or a link back to the original article.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLB4DC2508C4D0076D",
+      "gameTypeId": 2,
+      "id": 10
+    },
+    {
+      "albumTitle": "Paper Mario",
+      "albumImg": "https://mario.wiki.gallery/images/thumb/7/74/Paper_Mario_64_box.png/300px-Paper_Mario_64_box.png",
+      "albumInfo": "Paper Mario Game Music Soundtrack CD contains the original music from Paper Mario. This item is copyrighted in 2001 and published by Nintendo. It was given out as a bonus gift to subscribers of Nintendo Power in limited quantities, with the last being given in 2002 or 2003. The soundtrack holds seventy-eight songs from the game in two discs.\n\nThe whole soundtrack is composed by Yuka Tsujiyoko, stating that she used pieces of Mario music that originated from games like Super Mario Bros., Super Mario Bros. 3, and Super Mario World, and expanded them to make the theme music fit in the game.\n\nThe above text is from the Super Mario Wiki and is available under a Creative Commons license. Attribution must be provided through a list of authors or a link back to the original article. Source: https://www.mariowiki.com/Paper_Mario_Game_Music_Soundtrack_CD",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLO1Tb0ibatGMZZWoOOoZY_PHWzXkz7kFe",
+      "gameTypeId": 2,
+      "id": 11
+    },
+    {
+      "albumTitle": "Super Mario World",
+      "albumImg": "https://mario.wiki.gallery/images/thumb/d/da/Super_Mario_World_Box.png/300px-Super_Mario_World_Box.png",
+      "albumInfo": "The Super Mario World Soundtrack is a set of two CD's released in 1991 (only in Japan). The first CD features recreated works from Mario video games, completely composed by Koji Kondo. The second disc features music and sound effects from Super Mario Bros., Super Mario Bros.: The Lost Levels, Vs. Super Mario Bros., Super Mario Bros. 3, and Super Mario World.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL824CD10256695B1F",
+      "gameTypeId": 2,
+      "id": 12
+    },
+    {
+      "albumTitle": "Undertale",
+      "albumImg": "https://f4.bcbits.com/img/a2854475053_16.jpg",
+      "albumInfo": "The game's soundtrack was entirely composed by Fox with FL Studio. A self-taught musician, he composed most of the tracks with little iteration; the game's main theme, \"Undertale\", was the only song to undergo multiple iterations in development. The soundtrack was inspired by music from Super NES role-playing games—such as EarthBound and Live A Live—bullet hell series Touhou Project, the chiptune band Anamanaguchi, as well as the webcomic Homestuck, for which Fox provided some of the music. Fox also stated that he tries to be inspired by all music he listens to, particularly those in video games. According to Fox, over 90% of the songs were composed specifically for the game. \"Megalovania\" (stylized as \"MEGALOVANIA\"), the song used during the boss battle against Sans, had previously been used within Homestuck and in one of Fox's EarthBound ROM hacks. For each section of the game, Fox composed the music prior to programming, as it helped \"decide how the scene should go\". He initially tried using a music tracker to compose the soundtrack, but found it difficult to use. He ultimately decided to play segments of the music separately, and connect them on a track. To celebrate the first anniversary of the game, Fox released five unused musical works on his blog in 2016.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLpJl5XaLHtLX-pDk4kctGxtF4nq6BIyjg",
+      "gameTypeId": 1,
+      "id": 13
+    },
+    {
+      "albumTitle": "Stardew Valley",
+      "albumImg": "https://f4.bcbits.com/img/a1362241216_16.jpg",
+      "albumInfo": "The Stardew Valley Official Soundtrack (OST) is composed by ConcernedApe.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLKDOdCjxOjzIFucHobwJpSK4-vAVXST90",
+      "gameTypeId": 4,
+      "id": 14
+    },
+    {
+      "albumTitle": "Mafia 3",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Mafia_III_cover_art.jpg/220px-Mafia_III_cover_art.jpg",
+      "albumInfo": "The Mafia III Soundtrack features 101 carefully curated songs from the era that set the tone for Lincoln Clay's journey through the game. As you drive down the streets of New Bordeaux you will hear everything from classic rock, country, soul, rhythm & blues to authentic Louisiana Zydeco music.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL_nEyntRVHquJHQmixqRZlpnCIUkU29_v",
+      "gameTypeId": 4,
+      "id": 15
+    },
+    {
+      "albumTitle": "Zelda Breath of the Wild",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg/220px-The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+      "albumInfo": "The original score was composed by Manaka Kataoka, Yasuaki Iwata, and Hajime Wakai. Kataoka and Wakai had previously worked on the Zelda games Spirit Tracks and The Wind Waker respectively. The soundtrack was primarily written and performed on a piano, with a focus on ambient music and sounds rather than melodic and upbeat music as seen in previous Zelda games. According to Wakai, this helped add \"authenticity\" to the environments and was taken on as a challenge by the rest of the sound team.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLqrlkIVyDLs-UMeSWlObux9TUJXfxHRLY",
+      "gameTypeId": 1,
+      "id": 16
+    },
+    {
+      "albumTitle": "Zelda Ocarina of Time",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/The_Legend_of_Zelda_Ocarina_of_Time.jpg/220px-The_Legend_of_Zelda_Ocarina_of_Time.jpg",
+      "albumInfo": "Ocarina of Time's music was written by Koji Kondo, the composer in charge of music for most of the games in The Legend of Zelda series. In addition to characters having musical themes, areas of Hyrule are also associated with pieces of music. This has been called leitmotif in reverse—instead of music announcing an entering character, it now introduces a stationary environment as the player approaches. In some locations, the music is a variation of an ocarina tune the player learns, related to that area.\n\nBeyond providing a backdrop for the setting, music plays an integral role in gameplay. The button layout of the Nintendo 64 controller resembles the holes of the ocarinas in the game,[45] and players must learn to play several songs to complete the game. All songs are played using the five notes available on an ocarina, although by bending pitches via the analog stick, players can play additional tones. Kondo said that creating distinct themes on the limited scale was a \"major challenge\", but feels that the end result is very natural. The popularity of Ocarina of Time led to an increase in ocarina sales.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLAs1Kha_R9dLUSxTSb4wLHen4MAQDRIZ_",
+      "gameTypeId": 1,
+      "id": 17
+    },
+    {
+      "albumTitle": "Zelda Majora's Mask",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg/220px-The_Legend_of_Zelda_-_Majora%27s_Mask_Box_Art.jpg",
+      "albumInfo": "he music was written by longtime series composer Koji Kondo, and Toru Minegishi. The soundtrack largely consists of reworked music from Ocarina of Time, complemented with other traditional Zelda music such as the \"Overworld Theme\" and new material. Kondo describes the music as having \"an exotic Chinese-opera sound\". As the three-day cycle progresses, the theme song of Clock Town changes between three variations, one for each day. IGN relates the shift in music to a shift in the game's atmosphere, saying that the quickened tempo of the Clock Town music on the second day conveys a sense of time passing quickly. The two-disc soundtrack was released in Japan on June 23, 2000, and features 112 tracks from the game.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLAs1Kha_R9dJAX1YdyjBTd3Gql6TJ_1CO",
+      "gameTypeId": 1,
+      "id": 18
+    },
+    {
+      "albumTitle": "Minecraft",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Minecraft_cover.png/220px-Minecraft_cover.png",
+      "albumInfo": "The music of the video game Minecraft was primarily composed by German musician Daniel Rosenfeld, better known by his pseudonym C418. Later on in the game's history, Gareth Coker, Lena Raine, Kumi Tanioka and Samuel Åberg contributed with several albums and EPs. These albums include music featured in the game, as well as other music included in trailers, and instrumentals not included in the game's final release.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLefKpFQ8Pvy5aCLAGHD8Zmzsdljos-t2l",
+      "gameTypeId": 1,
+      "id": 19
+    },
+    {
+      "albumTitle": "Red Dead Redemption",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Red_Dead_Redemption.jpg/220px-Red_Dead_Redemption.jpg",
+      "albumInfo": "The music for the 2010 action-adventure western video game Red Dead Redemption, developed by Rockstar San Diego and published by Rockstar Games, was composed by musicians Bill Elm and Woody Jackson. Recorded at Jackson's studio in Los Angeles, the soundtracks were produced by David Holmes. The music was intended to imitate soundtracks of 1960s Western films, such as Ennio Morricone's work on the Dollars Trilogy. In collaboration with each other, Elm and Jackson produced over fourteen hours of music across fifteen months. The composers used unconventional instruments to create unique sounds, and worked with artists such as Tommy Morgan during production. Four supplementary vocal recordings were also produced for the game.\n\nThe soundtrack album for Red Dead Redemption was released on iTunes in May 2010. Additional compositions, composed for the game's standalone expansion pack Undead Nightmare, were released on a second soundtrack in November 2010. Critical reception to the soundtracks was positive, as reviewers felt that the music connected appropriately with the gameplay and genre. The game's music was nominated for numerous awards. Several tracks became popular and begot cover versions and live performances.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL880D572DF1EA418B",
+      "gameTypeId": 4,
+      "id": 20
+    },
+    {
+      "albumTitle": "Red Dead Redemption 2",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Red_Dead_Redemption_II.jpg/220px-Red_Dead_Redemption_II.jpg",
+      "albumInfo": "The music for the 2018 action-adventure game Red Dead Redemption 2, developed and published by Rockstar Games, consists of an original score composed by musician Woody Jackson and an original soundtrack produced by Daniel Lanois. The soundtrack album was released digitally in July 2019, consisting of vocal tracks with artists such as Willie Nelson, Rhiannon Giddens, and Josh Homme. The score album was released in August 2019, mostly consisting of Jackson's original work and collaborations with artists such as Colin Stetson, Senyawa, and Arca. An additional extended play, The Housebuilding EP, was released in February 2021, consisting of original songs by David Ferguson and Matt Sweeney. Two singles of music from the game have also been released: \"Unshaken\" by D'Angelo in January 2019, later released as part of the original soundtrack; and \"Letter from Bluewater Man\" by Christone \"Kingfish\" Ingram in August 2021, as part of an update for Red Dead Online.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLPfHaI9XqTnEXCUC7Ac9mEPdg0PfUW6V8",
+      "gameTypeId": 1,
+      "id": 21
+    },
+    {
+      "albumTitle": "Kingdom Hearts",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Kingdom_Hearts_logo.png/250px-Kingdom_Hearts_logo.png",
+      "albumInfo": "The music of the Kingdom Hearts video game series was composed by Yoko Shimomura with orchestral music arranged by Kaoru Wada.[1][2] The original soundtracks of the games have been released on three albums and a fourth compilation album. The soundtracks to the Kingdom Hearts games feature several musical pieces from both Square Enix and Disney works , including such pieces as \"Mickey Mouse Club March\" by Jimmie Dodd, \"This Is Halloween\" by Danny Elfman, and \"One-Winged Angel\" by Nobuo Uematsu. They also feature several vocal songs, the most notable being the four main theme songs: \"Hikari\", \"Passion\", \"Chikai\", and \"Face My Fears.\" The two themes were written and performed by Japanese American pop star Hikaru Utada; in addition to Japanese, English versions of the first three songs were produced, titled \"Simple and Clean\", \"Sanctuary\", and \"Don't Think Twice\", respectively.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLYDdhHVGYrjKGZURwkooz8jAfChYBHmH6",
+      "gameTypeId": 1,
+      "id": 22
+    },
+    {
+      "albumTitle": "Kingdom Hearts II",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Kingdom_Hearts_II_%28PS2%29.jpg/220px-Kingdom_Hearts_II_%28PS2%29.jpg",
+      "albumInfo": "The Kingdom Hearts II Original Soundtrack was first released in Japan on January 25, 2006 by Toshiba-EMI. It has yet to be released internationally in English, although it has been released in Japanese for the public. The 2-CD set contains all of the songs from Kingdom Hearts II (excluding the extra soundtrack in Kingdom Hearts II Final Mix). Many tracks from the Piano Collections Kingdom Hearts came from this soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLDD1C236CA6E094FC",
+      "gameTypeId": 1,
+      "id": 23
+    },
+    {
+      "albumTitle": "Bastion",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Bastion_Boxart.jpg/220px-Bastion_Boxart.jpg",
+      "albumInfo": "Bastion's soundtrack was produced and composed by Darren Korb, a songwriter and composer. He was selected to pen the soundtrack by Rao, who was a childhood friend of Korb. Bastion was the first video game that Korb had scored; prior to it he had worked on a few smaller television shows and movies. He was brought onto the team in the beginning stages of the project, and several of the pieces he developed were created prior to the final design of the levels with which they were associated. The musical style of the soundtrack has been described by Korb as \"acoustic frontier trip hop\". It was intended to evoke both the American frontier and an exotic fantasy world. The songs combine \"heavily sampled beats in layers, along with acoustic elements\", and he determined that he wanted to create the soundtrack in that style as it was different from video game soundtracks that he had heard before. The music was recorded in Korb's closet at his New York City apartment, as were the sound effects and more than three thousand lines of narration by Cunningham.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL53mjgVKFq7yPfCiSJaA_aI2SPKrnEmmJ",
+      "gameTypeId": 1,
+      "id": 24
+    },
+    {
+      "albumTitle": "Chrono Trigger",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Chrono_Trigger.jpg/220px-Chrono_Trigger.jpg",
+      "albumInfo": "hrono Trigger was scored primarily by Yasunori Mitsuda, with contributions from veteran Final Fantasy composer Nobuo Uematsu and one track by Noriko Matsueda. A sound programmer at the time, Mitsuda was unhappy with his pay and threatened to leave Square if he could not compose music. Mitsuda composed new music and drew on a personal collection of pieces composed over the previous two years.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLxJBkIRsvt_bNLMFm1-r5fhvOhD-g3MT0",
+      "gameTypeId": 4,
+      "id": 25
+    },
+    {
+      "albumTitle": "Cuphead",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/e/eb/Cuphead_%28artwork%29.png",
+      "albumInfo": " Cuphead is an original soundtrack that features almost three hours of jazz, early big band, and ragtime music.\n\nComposed by Kristofer Maddigan, every song in the game is played by live musicians, including a solo pianist, a vocalist, a tap dancer, a 13-piece big band, and more.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLocQeghkorOWXJ3tu8YwNfbwjxTJ2UZWV",
+      "gameTypeId": 1,
+      "id": 26
+    },
+    {
+      "albumTitle": "DOOM (1993)",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Doom_cover_art.jpg/220px-Doom_cover_art.jpg",
+      "albumInfo": "ll of Doom music was composed by Robert Prince. The fourth episode added in The Ultimate Doom did not include any new tracks and only used songs from the first three episodes.\n\nMany of the songs were inspired by or closely mirror popular rock and metal songs of that era, from groups such as Alice in Chains, D.R.I, Metallica, Pantera and Slayer.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLD741146AA133C8E3",
+      "gameTypeId": 3,
+      "id": 27
+    },
+    {
+      "albumTitle": "Donkey Kong Country 2",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/DK_Country_2.jpg/220px-DK_Country_2.jpg",
+      "albumInfo": "The soundtrack of Diddy's Kong Quest was composed by David Wise and was released in the United States as The Original Donkey Kong Country 2 Soundtrack. The soundtrack maintains similarity to its predecessor with its prominent percussion and eclectic genres ranging between big band, disco and hip hop. The melodies and rhythms are largely comical in tone, but occasionally melancholic. Certain themes are reminiscent of compositions by Vangelis and Phil Collins. Wise cited Koji Kondo's music for the Mario and Zelda games, Geoff and Tim Follin's music for Plok!, and synthesizer-based film soundtracks released in the 1980s as influences in creating the music for the Donkey Kong Country series. As with its predecessor, the music was produced for the SNES's SPC700 chip for the game to sound similar to the Korg Wavestation synthesizer.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLFADADFD88F5B0565",
+      "gameTypeId": 1,
+      "id": 28
+    },
+    {
+      "albumTitle": "Skyrim",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/1/15/The_Elder_Scrolls_V_Skyrim_cover.png/220px-The_Elder_Scrolls_V_Skyrim_cover.png",
+      "albumInfo": "The Elder Scrolls V: Skyrim: Original Game Soundtrack is the soundtrack album for the 2011 role-playing video game The Elder Scrolls V: Skyrim from Bethesda Softworks, composed by Jeremy Soule. Soule composed the soundtracks for the previous two games in The Elder Scrolls series, Morrowind and Oblivion, and re-used some motifs from those scores in his compositions for Skyrim. The soundtrack was lauded by audiences and critics and was ranked among the best game soundtracks of the year. The game theme song, \"Dragonborn\", featuring lyrics in a fictional dragon language, was particularly noted.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL8CB7943AB56938F8",
+      "gameTypeId": 4,
+      "id": 29
+    },
+    {
+      "albumTitle": "Hotline Miami",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Hotline_Miami_cover.png/220px-Hotline_Miami_cover.png",
+      "albumInfo": "The Hotline Miami – Official Soundtrack could first be found on Devolver Digital's SoundCloud account. It was later made available to purchase on Valve's digital distribution platform, Steam, as downloadable content for the main game. Although the soundtrack is available for purchase, all of the music files can be found within the game folder in Ogg vorbis format",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLLKwfUfqCCODZUCwMBeMlv182Fy187gmA",
+      "gameTypeId": 3,
+      "id": 30
+    },
+    {
+      "albumTitle": "Mega Man 2",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Megaman2_box.jpg/220px-Megaman2_box.jpg",
+      "albumInfo": "The soundtrack for Mega Man 2 was composed by Takashi Tateishi (credited as Ogeretsu Kun), with Mega Man composer Manami Matsumae (credited as Manami Ietel) included for having her work on the credits theme from the first game repurposed for the title screen, and for co-composing a minor part of the melody for Air Man's stage. Matsumae had been moved to the arcade division, considered more prestigious at the time, which necessitated a new composer. Matsumae and Tateishi worked closely during their time at Capcom, with Tateishi assisting Matsumae with U.N. Squadron in a similar manner during the period, albeit uncredited. Tateishi's musical background was unusual compared to his contemporaries at Capcom, in that he had not been classically trained but was instead drawing on his experience performing in a band.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL2F553EFB76F93B22",
+      "gameTypeId": 1,
+      "id": 31
+    },
+    {
+      "albumTitle": "Persona 5",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Persona_5_cover_art.jpg/220px-Persona_5_cover_art.jpg",
+      "albumInfo": "The score was composed, performed, and produced by series sound director Shoji Meguro. Further contributions, among other general sound design, was handled by Toshiki Konishi, Kenichi Tsuchiya, Atsushi Kitajoh, and Ryota Kozuka; all of them having previously worked on the series as well. Meguro was given full creative freedom to work on the soundtrack and over a roughly three year period produced about 80% of the total tracks. Seven tracks were performed in English by Lyn, a jazz and soul music singer. Her first performance in a video game, Lyn claimed that the most difficult part of her contributions was performing a rap segment in the opening theme, \"Wake Up, Get Up, Get Out There\". The lyrics were written by Benjamin Franklin, while the ending song, \"Hoshi To Bokura To\", had lyrics written in Japanese by Shigeo Komori.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLZuZrScKjWOMAEEBEGTmAGtmmlg6QY7bC",
+      "gameTypeId": 4,
+      "id": 32
+    },
+    {
+      "albumTitle": "Shadow Of The Colossus",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg/220px-Shadow_of_the_Colossus_%282005%29_cover.jpg",
+      "albumInfo": "The soundtrack was composed by Kow Otani, who had been previously responsible for the music to the 1990s-era Gamera films and a number of anime titles. Within the video game medium, his past work consisted of the soundtracks to the PlayStation 2 flight simulator Sky Odyssey and the PlayStation scrolling shooter Philosoma. In selecting the composer of the game, Ueda sought to deviate from the conceptual perspective of the score for Ico, written by Michiru Oshima. Unlike Ico, which Ueda saw as a game that equally attracted male and female audiences, he saw Shadow of the Colossus as a work that appealed more to male players. This led Ueda to hire a male composer for the game. The versatility of Otani's musical output and his understanding of folk instruments were further factors in his recruitment by Ueda.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL5izbl2Pj0YbfyRPjQJBJ2nLSXssrXSPF",
+      "gameTypeId": 4,
+      "id": 33
+    },
+    {
+      "albumTitle": "Streets of Rage",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/0/06/Streets_of_Rage_%28cover%29.jpg",
+      "albumInfo": "The game's soundtrack was acclaimed, with several soundtrack albums being released. The soundtracks were composed by Yuzo Koshiro. Another musician, Motohiro Kawashima, helped on the second, providing a few tracks, and making almost half of the tracks for the third. Three soundtrack CDs were released in all, each of which now sell for high prices at auction and in Japanese markets.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLv1tYJbe3vGMr3ctn7d_fIm6u1_akD_si",
+      "gameTypeId": 2,
+      "id": 34
+    },
+    {
+      "albumTitle": "Super Mario Galaxy",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/SuperMarioGalaxy.jpg/220px-SuperMarioGalaxy.jpg",
+      "albumInfo": "The game's soundtrack features 28 orchestral songs performed by a 50-person symphony orchestra. Yokota initially had concerns whether or not orchestral music would fit in with the rhythm of a Mario game, but thought that such music would make the scale of the game \"seem more epic\". Kondo, on the other hand, believed if orchestral music were used the player would be \"obligated to play the game in time to the music\". To synchronise the soundtrack to gameplay, Kawamura utilised similar techniques he used to synchronise sound effects in The Legend of Zelda: Wind Waker and Donkey Kong Jungle Beat — in which the game synchronises MIDI data with streaming data, resulting in sound effects playing at the same time as background music. To make synchronisation possible, the audio team requested the orchestra to perform at different tempos set with a metronome.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLoqOgJJaN57YiiY-JrdSvBVCprMPednXl",
+      "gameTypeId": 1,
+      "id": 35
+    },
+    {
+      "albumTitle": "The Witcher 3",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg",
+      "albumInfo": "The Witcher 3 soundtrack for The Witcher 3: Wild Hunt was composed by Marcin Przybyłowicz, Mikołaj Stroiński, and Percival, and consists of 35 tracks with a total running time of approximately 81 minutes and 7 seconds.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL3-Zr0Ym0Fgz4BDpjl0V1clIk_J7e90zf",
+      "gameTypeId": 4,
+      "id": 36
+    },
+    {
+      "albumTitle": "Sonic Adventure",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Sonic_Adventure.PNG/220px-Sonic_Adventure.PNG",
+      "albumInfo": "Sonic Adventure's score was primarily composed by Jun Senoue, with additional music by Fumie Kumatani, Kenichi Tokoi, and Masaru Setsumaru. Adventure was Senoue's first project as sound director and its scope meant he had many more responsibilities, including schedule management, compared to his previous games. In contrast to previous Sonic games, which featured electropop soundtracks, the Adventure sound team preferred \"hot, funky, and rock 'n' roll\" music. Iizuka noted that Sonic Team's primary goal with Adventure was \"to evoke the essence of Sonic by going from 2D to 3D\", and felt the music needed to exceed fan expectations due to previous Sonic soundtracks' popularity.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLvNp0Boas722L8qX0VsBhaI8s0a9k4Umr",
+      "gameTypeId": 2,
+      "id": 37
+    },
+    {
+      "albumTitle": "Sonic Adventure 2",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Sonic_Adventure_2_cover.png/220px-Sonic_Adventure_2_cover.png",
+      "albumInfo": "As with Sonic Adventure, Jun Senoue served as sound director and lead composer. Additional music was contributed by Fumie Kumatani, Tomoya Ohtani, and Kenichi Tokoi. The soundtrack is primarily melodic rock, with some hip hop and orchestral tracks. As in Adventure, each character has a musical theme. The game features performances by returning vocalists Tony Harnell, Ted Poley, Marlon Saunders, Nikki Gregoroff and Johnny Gioeli, and new vocalists Tabitha Fair, Todd Cooper, Paul Shortino, Everett Bradley, Kaz Silver and Hunnid-P. Crush 40 (consisting of Senoue and Gioeli) debuted on the game's main theme, \"Live and Learn\". Production of the music lasted from April 2000 to February 2001; after this Senoue, along with others, created sound effects",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLvNp0Boas721TSB-gLzJt6vOmTdRsX47x",
+      "gameTypeId": 2,
+      "id": 38
+    },
+    {
+      "albumTitle": "Hollow Knight",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Hollow_Knight_cover.jpg/220px-Hollow_Knight_cover.jpg",
+      "albumInfo": "The original soundtrack for Hollow Knight was composed and performed by Christopher Larkin, and a few other artists. It is divided into two albums, one for the original game and another compiling the new tracks composed for the four content packs. The tracks in the albums are often composed of several musical suites for gameplay situations. A few others, mainly remixes, were omitted as well.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLmOldskd2VbL7_t-NE9p6rEboq_v0AHko",
+      "gameTypeId": 1,
+      "id": 39
+    },
+    {
+      "albumTitle": "Animal Crossing",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Animal_Crossing_New_Horizons.jpg/220px-Animal_Crossing_New_Horizons.jpg",
+      "albumInfo": "Kazumi Totaka (戸高 一生, Totaka Kazumi, born August 23, 1967) is a video game composer. Totaka has been the sound director for all mainline games in the Animal Crossing series, as well as the composer for many of the tracks. He has composed various songs from other Nintendo games, and is known to hide a short melody known as \"Totaka's Song\" in games he has worked on. This is present in all Animal Crossing games as \"K.K. Song\".",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLZq7Jn-XiIlskI0PI31tG_nSt8qPDjgsq",
+      "gameTypeId": 1,
+      "id": 40
+    },
+    {
+      "albumTitle": "Jak and Daxter",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/b/b6/Jak_and_Daxter_-_The_Precursor_Legacy_Coverart.png",
+      "albumInfo": "Five Jak and Daxter soundtracks have been commercially released and have featured several composers, including Mark Mothersbaugh, Josh Mancell, Larry Hopkins, Billy Howerdel, and James Dooley. The compositions were inspired by world music, with Mancell commenting that he intended \"to create something other than an expected orchestral flavoured fantasy soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLF296898380E24516",
+      "gameTypeId": 2,
+      "id": 41
+    },
+    {
+      "albumTitle": "Jak II",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/b/b3/JakIIbox.jpg",
+      "albumInfo": "Five Jak and Daxter soundtracks have been commercially released and have featured several composers, including Mark Mothersbaugh, Josh Mancell, Larry Hopkins, Billy Howerdel, and James Dooley. The compositions were inspired by world music, with Mancell commenting that he intended \"to create something other than an expected orchestral flavoured fantasy soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL89B061405498A67D",
+      "gameTypeId": 1,
+      "id": 42
+    },
+    {
+      "albumTitle": "Jak 3",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/e/ec/Jak_3_Coverart.png",
+      "albumInfo": "Five Jak and Daxter soundtracks have been commercially released and have featured several composers, including Mark Mothersbaugh, Josh Mancell, Larry Hopkins, Billy Howerdel, and James Dooley. The compositions were inspired by world music, with Mancell commenting that he intended \"to create something other than an expected orchestral flavoured fantasy soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PL36A1C079FB414495",
+      "gameTypeId": 1,
+      "id": 43
+    },
+    {
+      "albumTitle": "Jak X",
+      "albumImg": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Jak_X_-_Combat_Racing_Coverart.png/220px-Jak_X_-_Combat_Racing_Coverart.png",
+      "albumInfo": "Five Jak and Daxter soundtracks have been commercially released and have featured several composers, including Mark Mothersbaugh, Josh Mancell, Larry Hopkins, Billy Howerdel, and James Dooley. The compositions were inspired by world music, with Mancell commenting that he intended \"to create something other than an expected orchestral flavoured fantasy soundtrack.",
+      "albumUrl": "https://www.youtube.com/embed/videoseries?list=PLD-hKNlwjGgPcPJMkPAf-JGrNgBZ2hRPI",
+      "gameTypeId": 1,
+      "id": 44
+    }
+  ],
+  "gameTypes": [
+    {
+      "id": 1,
+      "type": "Adventure"
+    },
+    {
+      "id": 2,
+      "type": "Retro"
+    },
+    {
+      "id": 3,
+      "type": "FPS"
+    },
+    {
+      "id": 4,
+      "type": "Story/RPG"
+    }
+  ],
+  "favorites": [
+    {
+      "uid": "FR5Z3WLspjRmjcBspwuTdjPV3qs2",
+      "albumId": 2,
+      "id": 1
+    },
+    {
+      "uid": "FR5Z3WLspjRmjcBspwuTdjPV3qs2",
+      "albumId": 1,
+      "id": 2
+    },
+    {
+      "uid": "FR5Z3WLspjRmjcBspwuTdjPV3qs2",
+      "albumId": 26,
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "albumId": 3,
+      "datePosted": "Monday, December 12, 2022 9:35:20 PM",
+      "comment": "My favorite game final Fantasy",
+      "displayName": "Holden Reed",
+      "uid": "xvEYhrXRCLY9eX9jblCzDD5ygCw2",
+      "id": 2
+    },
+    {
+      "albumId": 1,
+      "datePosted": "Monday, December 12, 2022 9:43:43 PM",
+      "comment": "hello",
+      "displayName": "Holden Reed",
+      "uid": "xvEYhrXRCLY9eX9jblCzDD5ygCw2",
+      "id": 3
+    }
+  ]
+}

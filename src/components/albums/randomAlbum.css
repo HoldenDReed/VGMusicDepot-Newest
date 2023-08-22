@@ -1,0 +1,162 @@
+.swiper-button-next,
+.swiper-button-prev {
+    color: rgb(200, 135, 14) !important;
+}
+
+.swiper {
+    width: 50%;
+}
+.swiperSlide {
+    margin-top: 1rem;
+    justify-content: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.randomAlbumCover {
+    width: 350px;
+    height: 460px;
+    border-radius: 8px;
+    border: black solid 2px;
+}
+
+.randomAlbums {
+    display: flex;
+    justify-content: center;
+
+}
+
+.randomAlbum {
+    width: 40rem;
+    background: #111;
+    border: 1.5px solid rgb(200, 135, 14);
+    color: black;
+    box-shadow: 3px 3px 0px rgb(200, 135, 14);
+    border-radius: 8px;
+    padding: 0.5rem;
+    margin: 0.7rem;
+}
+
+
+#randomAlbumInput {
+    background-color: 111;
+    font-size: large;
+    text-align: center;
+}
+
+.randomAlbumButton {
+    float: right;
+    position: relative;
+    margin-top: 6%;
+}
+
+.randomAlbumTitle{
+    height: 66px;
+}
+
+.formCenter {
+    justify-content: center;
+}
+
+.centerItems {
+    place-items: center center;
+}
+
+.formButtons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.albumDetails {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.titleLink{ 
+    text-decoration: none;
+    color: black;
+}
+
+.titleLink:hover{
+    color: cadetblue;
+}
+
+.glow-on-hover {
+    max-height: 100px;
+    max-width: 220px;
+    border: none;
+    outline: none;
+    color: #fff;
+    background: #111;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.glow-on-hover:before {
+    content: '';
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    position: absolute;
+    top: -2px;
+    left:-2px;
+    background-size: 400%;
+    z-index: -1;
+    filter: blur(5px);
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    animation: glowing 20s linear infinite;
+    opacity: 0;
+    transition: opacity .3s ease-in-out;
+    border-radius: 10px;
+    
+}
+
+.glow-on-hover:active {
+    color: #000
+}
+
+.glow-on-hover:active:after {
+    background: transparent;
+}
+
+.glow-on-hover:hover:before {
+    opacity: 1;
+}
+
+.glow-on-hover:after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #111;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% { background-position: 0 0; }
+    50% { background-position: 400% 0; }
+    100% { background-position: 0 0; }
+}
+
+.glowDiv {
+    padding-top: 2px;
+}
+
+.descriptionBox {
+    border: 2px rgb(200, 135, 14) solid;
+    color: white;
+    width: 90%;
+    background-color: #3f3f3f;
+}
+
+.logutOutBtn{
+    margin-right: 1rem;
+}
